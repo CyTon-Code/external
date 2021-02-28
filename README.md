@@ -1,5 +1,5 @@
-# external modules (plagins)
+# external modules (plugins)
 Here you can see external modules in development mode.
 
-![plagins.png](logo_external.png)
+![plugins.png](logo_external.png)
 
